@@ -27,7 +27,7 @@
     slti x27, x4,  -1       
     addi x0,  x27, 0
 
-    # add 
+    # add
 
     # sub
 
